@@ -2,10 +2,9 @@
 
 /**
  * @file
- * Install and uninstall functions for the draggable form module.
+ * Install functions for the draggable form module.
  *
- * This file contains the functions required to perform install and
- * uninstall operations.
+ * This file contains the functions required to perform install.
  */
 
 function draggable_form_schema() {
